@@ -4,7 +4,7 @@ gsap.to("#page2 img",{
       trigger:"#page2",
       scroller : "body",
       markers : true,
-      start:"top 0",
+      start:"top 0%",
       end : "top -100%",
       scrub : 2,
       pin : true,
