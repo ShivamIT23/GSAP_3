@@ -14,3 +14,25 @@ html , body {
     width: 100%;
     background-color: antiquewhite;
 }
+
+#page2{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(228, 182, 123);
+}
+
+#page2 img {
+    height: 100%;
+    width: 30%;
+    object-fit: cover;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#page3{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(230, 147, 39);
+}
+
